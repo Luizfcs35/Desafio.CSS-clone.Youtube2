@@ -45,3 +45,5 @@ O desafio de implementar layouts flexíveis utilizando Flexbox e Grid Layout, a 
 A flexibilidade do Flexbox permitiu a criação de interfaces fluídas, enquanto o poder estrutural do Grid Layout possibilitou a organização intuitiva dos elementos em layouts complexos. A aplicação de shorthands proporcionou uma sintaxe concisa, simplificando a expressão de estilos complexos.
 
 [Link: Clone Youtube 2 😄](https://luizfcs35.github.io/Desafio.CSS-clone.Youtube2/)
+
+![Página Finalizada](assets/imagens/Capturar.PNG)
